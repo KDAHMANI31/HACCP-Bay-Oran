@@ -68,4 +68,4 @@ checklist = {
 
     "Réception": [
         "Salle propre",
-       
+       ],
